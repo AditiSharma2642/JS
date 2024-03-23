@@ -1,6 +1,6 @@
 const accountId = 144553 //it can't be changed
-let accountEmail = "abcd@gmail.com"
-var accountPAssword = "1234"
+let accountEmail = "abcd@gmail.com" //let can be declared globally but can be accessed only in the block which it is declared 
+var accountPAssword = "1234" //var can be declared and accessed globally
 accountCity = "Bhopal"
 let accountState;
 
